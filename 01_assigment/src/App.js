@@ -29,7 +29,7 @@ class App extends Component {
           userName={this.state.userName}></UserOutput>
         
         <UserOutput
-          userName={this.state.userName}></UserOutput>
+          userName="Pierangelo"></UserOutput>
 
       </div>
     );
